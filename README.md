@@ -5,6 +5,10 @@ Práctica: Detección de Anomalías con Isolation Forest y One-Class SVM
 
 Práctica: Diferenciación entre Data Drift y Concept Drift
 
+¿Cómo cambia el rendimiento del modelo en situaciones de data drift y concept drift?
+La precisión del modelo inicial es de 0.9. Cuando se hizo el ajuste en los datos (En la simulación del Data Drift), se cambió también la distribución de los mismos, la precisión del modelo disminuye a .89, por lo que sí impactó, no de manera tan considerable, pero sí se vio una ligera degradación en el performance del modelo.
+La precisión del modelo cuando se hizo la simulación del concept drift subió a 0.97, por lo que se puede decir que mejoró
+
 Practica: Creación de un dashboard para monitorear modelo de Datos
 
 Práctica Monitoreo de Modelos.
