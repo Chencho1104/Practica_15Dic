@@ -5,6 +5,7 @@ Práctica: Detección de Anomalías con Isolation Forest y One-Class SVM
 
 Práctica: Diferenciación entre Data Drift y Concept Drift
 
+Práctica Monitoreo de Modelos.
 Un ejemplo de la distancia de Jensen-Shannon es la distancia de Jensen-Shannon entre dos distribuciones de Bernoulli con parámetros p y q.
 al ser la distancia 0.05, se puede decir que las distribuciones son similares
 Y la Distancia de Wasserstein: 0.0 indica que las distribuciones son iguales
