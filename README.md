@@ -3,6 +3,12 @@ Practicas de MLops
 
 Práctica: Detección de Anomalías con Isolation Forest y One-Class SVM
 
+Explica los resultados obtenidos además de los métodos para detectar #anomalías (debes explicarlo NO solo mencionarlo)
+
+El método de Isolation Forest es un método de detección de anomalías basado en árboles de decisión.
+El algoritmo funciona dividiendo el conjunto de datos en subconjuntos aleatorios y luego seleccionando aleatoriamente una característica y dividiendo los datos en función de un valor umbral óptimo. Este proceso se repite hasta que se detecta una anomalía o hasta que se alcanza un nivel de profundidad máximo. El algoritmo es eficiente y escalable, y funciona bien incluso en conjuntos de datos con muchas dimensiones. Sin embargo, el algoritmo no funciona bien en
+conjuntos de datos con muchas anomalías, y no funciona bien en conjuntos de datos con muchas dimensiones. El algoritmo también funciona mejor cuando las anomalías son más pequeñas que las muestras normales.
+
 Práctica: Diferenciación entre Data Drift y Concept Drift
 
 ¿Cómo cambia el rendimiento del modelo en situaciones de data drift y concept drift?
